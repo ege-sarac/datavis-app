@@ -14,7 +14,7 @@ It includes features like:
 
 ## ⚠️ Status
 
-**This project is a hobby/learning tool and is still under active development.**  
+**This project is a hobby/learning tool and is still under development.**  
 It is not intended for production or real-world usage. I'm using it to sharpen my skills in:
 
 - Flask web development
